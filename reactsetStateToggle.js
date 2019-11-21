@@ -1,4 +1,5 @@
 /*
+You can try this out on https://jscomplete.com/
   Write JavaScript/React code here and press Ctrl+Enter to execute.
 
   Try: mountNode.innerHTML = 'Hello World!';
@@ -45,4 +46,4 @@ class Header extends React.Component {
 
 ReactDOM.render(<Header />,  mountNode);
 
-//ReactDOM.render(<h2>Hello I am here!</h2>, mountNode);
+
